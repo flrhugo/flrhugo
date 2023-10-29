@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hey 👋, I'm Hyugs</h1>
 <h3 align="center">3rd Year Student | Aiming to be a UI/UX Designer and Front-End Developer</h3>
 
